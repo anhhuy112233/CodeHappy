@@ -3,17 +3,19 @@ var config = {
   // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
   // 每句话尽量不要超过15个字,不然展示效果可能不太好
   texts: [
-    "Thế là lại thêm một tuổi mới", 
-    "Lại thêm những điều mới", 
-    "Ước rằng qua tuổi mới tớ chúc bạn thật nhiều may mắn",
-    "Thành công hơn trong học tập cũng như công việc",
-    "Ước rằng gia đình tôi luôn luôn mạnh khỏe",
-    "Ước rằng bạn bè tôi cũng thật nhiều sức khỏe và may mắn và có thể bên tôi lâu dài hơn nữa!",
-    "Vũ Thị Phương Anh",
-    "09 / 04 / 2003",
-    "18 / 10 / 2003",
-    "Chúc mừng sinh nhật!",
-    "YAMI~~",
+    "✨🎂 Chúc Mừng Sinh Nhật - Vũ Thị Phương Anh! 🎉🎊",
+    "🎁 Thêm một tuổi mới, thêm nhiều niềm vui, thêm những kỷ niệm đáng nhớ, 🎈",
+    "🍀 Mong rằng mỗi ngày trôi qua đều mang đến cho bạn thật nhiều may mắn và hạnh phúc, 💖",
+    "🌸 Chúc bạn luôn rạng rỡ, tràn đầy năng lượng, 😍",
+    "📚 Thành công hơn trong học tập, công việc ngày càng thăng tiến, 🚀",
+    "💖 Gia đình luôn hạnh phúc, bình an, và ngập tràn tiếng cười, 😊",
+    "🌟 Những ước mơ ấp ủ bấy lâu sẽ dần trở thành hiện thực, ✨",
+    "",
+    "💪 Dù chặng đường phía trước có ra sao, hãy luôn giữ vững niềm tin và bước tiếp thật mạnh mẽ nhé, 🌈",
+    "📅 Hôm nay là ngày đặc biệt của bạn - 09/04/2003, hãy tận hưởng trọn vẹn từng khoảnh khắc tuyệt vời, 🎶",
+    "",
+    "🎈🎂 Chúc mừng sinh nhật! 🎂🎈",
+    "🥳🎊 YAMI~~ 💖🎁",
   ],
   /**
    * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
